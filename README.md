@@ -2,8 +2,9 @@
 
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Che Chen</h1>
-:shipit: www.helloche.cc
-:postbox: chen_che@student.ceu.edu
+:shipit: : www.helloche.cc
+
+:postbox: : chen_che@student.ceu.edu
 
 <!--
 **chechen0904/chechen0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
