@@ -1,4 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chechen0904" alt="chechen0904" /> </p>
+
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Che Chen</h1>
+:shipit: www.helloche.cc
+:postbox: chen_che@student.ceu.edu
 
 <!--
 **chechen0904/chechen0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=chechen0904&show_icons=true&hide_title=true&hide_border=true)](https://github.com/chechen0904)
+<img src="https://raw.githubusercontent.com/shuzijun/shuzijun/master/pc.gif" width = "250" height = "250" alt=""/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chechen0904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
