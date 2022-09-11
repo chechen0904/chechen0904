@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Che Chen</h1>
-:shipit: : www.helloche.cc
 
 :postbox: : chen_che@student.ceu.edu
 
