@@ -3,7 +3,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Che Chen</h1>
 
-:postbox: : chen_che@student.ceu.edu
+:postbox: : cchen@iese.edu
 
 <!--
 **chechen0904/chechen0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
